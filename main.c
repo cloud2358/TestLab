@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("LPL will win worlds!\n");
+    printf("Hello main!\n");
 }
